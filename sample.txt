@@ -3,3 +3,8 @@ Taurus
 Gemini
 Cancer
 Leo
+Virgo
+Libra
+Scorpio
+Capricorn
+Pisces
